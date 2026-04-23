@@ -66,6 +66,7 @@ c-project-hub/
 ├── 08_data_structures/
 ├── 09_system_level/
 └── resources/
+```
 
 ---
 
@@ -102,6 +103,7 @@ gcc filename.c -o output
 
 ### 🔹 Run
 `./output`
+```
 
 ---
 
